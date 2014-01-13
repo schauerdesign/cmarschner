@@ -1,0 +1,45 @@
+body{
+	background-color;
+}
+#brand{
+	margin-left:100px;
+
+}
+
+#middlebar {
+	margin-top:10px;
+	margin-bottom:10px;
+	height:45px;
+	background: -webkit-gradient(linear, left bottom, left top, color-stop(0, #aaaaaa), color-stop(1, #ffffff));
+	background: -ms-linear-gradient(bottom, #aaaaaa, #ffffff);
+	background: -moz-linear-gradient(center bottom, #aaaaaa 0%, #ffffff 100%);
+	background: -o-linear-gradient(#ffffff, #aaaaaa);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#aaaaaa', GradientType=0);
+	border: 1px solid #999;
+}
+
+#buttons {
+	width: 86px;
+	float: right;
+	margin-top: 5px;
+	margin-right:3px;
+}
+.with-background{
+	background-color: #dcdcdc;
+}
+.columnpic{
+	width: 200px;
+	border: 3px solid white;
+	box-shadow: 10px 10px 5px #888;
+	margin: 20px;	
+}
+#pic3{
+	margin-right: 0px;
+}
+#map-canvas{
+	position: relative;
+	top: 100px;
+}
+#contact{
+	margin-left: 120px;
+}
